@@ -1,0 +1,22 @@
+<?php echo "
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta id='viewport' name='viewport' content='width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'>
+ 
+    <title>Mank的个人页</title>
+    <style>
+        html,body,iframe{width: 100%;height: 100%;padding: 0;margin: 0}
+        #wrap{width: 100%;height: 100%;}
+        iframe{border: none;}
+ 
+    </style>
+</head>
+<body>
+<div id='wrap'>
+    <iframe src='http://106.52.245.210:88/'></iframe>
+</div>
+</body>
+</html>";
+?>
